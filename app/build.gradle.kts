@@ -3,13 +3,21 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.capitulo4a"
+=======
+    namespace = "com.example.aula1"
+>>>>>>> 2d0489f9596aa617858475cd59471f4b1492fb06
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.example.capitulo4a"
+=======
+        applicationId = "com.example.aula1"
+>>>>>>> 2d0489f9596aa617858475cd59471f4b1492fb06
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -31,9 +39,12 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
+<<<<<<< HEAD
     viewBinding {
         enable = true
     }
+=======
+>>>>>>> 2d0489f9596aa617858475cd59471f4b1492fb06
 }
 
 dependencies {

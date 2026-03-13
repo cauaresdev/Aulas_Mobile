@@ -1,3 +1,13 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Capitulo4a</string>
+=======
+    <string name="app_name">Aula 1</string>
+    <string name="estudos">Iniciar Estudos</string>
+    <string name="aula_1">Aula 1</string>
+    <string name="aula_2">Aula 2</string>
+    <string name="aula_3">Aula 3</string>
+    <string name="cau_rosa_do_esp_rito_santo">Cauã Rosa do Espírito Santo</string>
+    <string name="helloworld">Cauã Rosa do Espírito Santo</string>
+>>>>>>> 2d0489f9596aa617858475cd59471f4b1492fb06
 </resources>

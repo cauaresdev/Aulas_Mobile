@@ -13,7 +13,11 @@
                 android:startY="49.59793"
                 android:type="linear">
                 <item
+<<<<<<< HEAD
                     android:color="#44000000"
+=======
+                    android:color="#444444"
+>>>>>>> 2d0489f9596aa617858475cd59471f4b1492fb06
                     android:offset="0.0" />
                 <item
                     android:color="#00000000"
