@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NetflixClone</string>
+    <string name="menu_series">Séries</string>
+    <string name="menu_filmes">Filmes</string>
+    <string name="menu_minha_lista">Minha Lista</string>
+    <string name="titulo_filme_capa">SKYFALL</string>
+    <string name="subtitulo_filme_capa">007</string>
+    <string name="tags_filme_capa">Ação • Espionagem • Drama</string>
+    <string name="btn_assistir">Assistir</string>
+    <string name="btn_detalhes">Detalhes</string>
+    <string name="secao_lancamento">Lançamento</string>
+    <string name="nome_aluno">Seu Nome Aqui</string>
+</resources>
